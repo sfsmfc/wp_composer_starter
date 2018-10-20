@@ -56,7 +56,6 @@
     "roots/wp-password-bcrypt": "^1.0.0",
     "koodimonni-language/core-de_DE": "*",
     "wpackagist-plugin/wordpress-seo": "*",
-    "mfc/twentyfourteen-mfc": "*",
     "wp-cli/language-command": "*",
     "aaemnnosttv/wp-cli-dotenv-command": "*"
   },
